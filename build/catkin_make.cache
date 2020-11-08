@@ -1,0 +1,2 @@
+Gazebo_tutorial/gazebo_tutorial:aruco:laser_values
+-DCATKIN_DEVEL_PREFIX=/home/ayushlokare/catkin_rob_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ayushlokare/catkin_rob_ws/install -G Unix Makefiles
